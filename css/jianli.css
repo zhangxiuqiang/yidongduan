@@ -179,9 +179,9 @@ html {
     width: 100%;
     height: 100%;
     background-image: url("../img/1.jpg");
-    background-size: cover;
-    background-origin: content-box;
+    background-size: 100% 100%;
     position: relative;
+    overflow: hidden;
 }
 
 .main .swiper-container .swiper-wrapper .swiper-slide .con2 .area {
@@ -189,17 +189,17 @@ html {
     top: 0;
     position: absolute;
     width: 6.4rem;
-    height: 9.74rem;
+    height: 8.52%;
     /*background: red;*/
 }
 
-.main .swiper-container .swiper-wrapper .swiper-slide .con2 .area .num1 {
-    width: 6.4rem;
-    height: 9.74rem;
-    left: -0.02rem;
-    top: -0.02rem;
-    z-index: 1;
-    transform: rotateZ(0deg);
+.main .swiper-container .swiper-wrapper .swiper-slide .con2 .num1{
+    width: 100%;
+    height: 85.2%;
+    background: url(../img/2.png) no-repeat;
+    background-size: 100% 100%;
+    position: absolute;
+    top: 0.82rem;
 }
 
 .main .swiper-container .swiper-wrapper .swiper-slide .con2 .area > li {
@@ -217,31 +217,6 @@ html {
     min-width: 1px;
     width: 100%;
     -webkit-user-select: none;
-}
-
-.main .swiper-container .swiper-wrapper .swiper-slide .con2 .area .num1 .el_box {
-    width: 100%;
-    height: 100%;
-    top: -0.02rem;
-    left: -0.02rem;
-    z-index: 1;
-    opacity: 1;
-    color: rgb(103, 103, 103);
-    transform: none;
-    text-align: left;
-    line-height: 1;
-    box-shadow: rgba(0, 0, 0, 0.498039) 0 0 0;
-}
-
-.main .swiper-container .swiper-wrapper .swiper-slide .con2 .area .num1 .el_box div {
-    width: 100%;
-    height: 95%;
-    margin-top: 0;
-}
-
-.main .swiper-container .swiper-wrapper .swiper-slide .con2 .area .num1 .el_box div img {
-    width: 100%;
-    height: 100%;
 }
 
 .main .swiper-container .swiper-wrapper .swiper-slide .con2 .area .num2 {
