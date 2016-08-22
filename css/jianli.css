@@ -245,7 +245,7 @@ html {
 }
 
 .main .swiper-container .swiper-wrapper .swiper-slide .con2 .area .num2 {
-    top: 1.24rem;
+    top: 1rem;
     left: 1.28rem;
     z-index: 5;
     opacity: 1;
@@ -445,7 +445,7 @@ html {
     width: 1.68rem;
     height: 2.32rem;
     margin-left: 2.57rem;
-    top: 0.52rem;
+    top: 0;
     z-index: 39;
     display: block;
 }
@@ -455,7 +455,7 @@ html {
     width: 3.48rem;
     height: 0.46rem;
     left: 0.55rem;
-    top: 1.68rem;
+    top: 1.16rem;
     z-index: 40;
     display: block;
 }
@@ -467,13 +467,13 @@ html {
     width: 2.78rem;
     height: 0.74rem;
     left: 0.7rem;
-    top: 0.98rem;
+    top: 0.46rem;
 }
 
 .main .swiper-container .swiper-wrapper .swiper-slide .con4 .box2 .skill {
     width: 80%;
     height: 50%;
-    margin: 15% auto;
+    margin: 10% auto;
     padding: 5px 20px;
     text-align: center;
 }
@@ -675,7 +675,7 @@ html {
     background-size: 100% 100%;
 }
 .main .swiper-container .swiper-wrapper .swiper-slide .con6 .son3 .child3  .shua{
-    margin: 0.8rem  auto  0.3rem;
+    margin: 0  auto  0.3rem;
     width:3rem;
     height: 3rem;
      border-radius: 50%;
@@ -694,7 +694,7 @@ html {
 .main .swiper-container .swiper-wrapper .swiper-slide .con6 .son3 .child4 div{
     width: 2.3rem;
     height: 2.3rem;
-    margin: 0.5rem auto 0.5rem;
+    margin: 0.3rem auto 0.3rem;
     background: url("../img/qq.png") no-repeat;
     background-size: 100% 100%;
 
