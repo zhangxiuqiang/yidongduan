@@ -656,8 +656,8 @@ html {
      border-radius: 50%;
     display: block;
     background:  url("../img/888.jpg") no-repeat;
-    background-size: 120% 144%;
-    background-position: -0.1rem -0.9rem;
+    background-size: 138% 144%;
+    background-position: -0.4rem 0rem;
 }
 .main .swiper-container .swiper-wrapper .swiper-slide .con6 .son3 .child3 span{
     font-size: 0.3rem;
